@@ -1,2 +1,2 @@
 # odin-landing-page
-First landing page created
+Create first landing page
